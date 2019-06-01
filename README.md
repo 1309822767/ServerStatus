@@ -24,7 +24,7 @@
 
 执行下面的代码下载并运行脚本。
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/Jrohy/ServerStatus/master/status.sh && chmod +x status.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/1309822767/ServerStatus/master/status.sh && chmod +x status.sh
 ```
 下载脚本后，根据需要安装客户端或者服务端：
 ``` bash
